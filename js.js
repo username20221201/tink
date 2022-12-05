@@ -1,1 +1,1 @@
-document.location.href="https://yandex.ru";
+console.log("Test new site");
